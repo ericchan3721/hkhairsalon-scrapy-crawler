@@ -112,3 +112,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# exported csv files
+hkhairsalon_*.csv
+
+# cache
+/hkhairsalon_crawler/__pycache__
+/hkhairsalon_crawler/spiders/__pycache__
+
+# release zip files
+*.zip
